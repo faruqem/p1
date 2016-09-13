@@ -2,7 +2,7 @@
 
 ---
 
-###Author: Mohiuddin Faruqe
+###Student: Mohiuddin Faruqe
 ###Create Date: Sept 10, 2016
 ###Synopsis: This is the portfolio website for Harvard Extension School CSCIE-15 Dynamic Web Applications course projects.
 
