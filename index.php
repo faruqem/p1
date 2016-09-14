@@ -24,19 +24,19 @@
       <div class="row">
         <div class="col-lg-4">
             <h2>Project P2</h2>
-            <h4><a href="p2.guddi.ca">View Project P2</a></h4>
+            <h4><a href="http://p2.guddi.ca">View Project P2</a></h4>
             <h4><a href="https://github.com/faruqem/p2">Project P2 Github Link</a></h4>
             <p>The goal of this project is to give hands-on practice with working with the basics of PHP.</p>
         </div>
         <div class="col-lg-4">
             <h2>Project P3</h2>
-            <h4><a href="p3.guddi.ca">View Project P3</a></h4>
+            <h4><a href="http://p3.guddi.ca">View Project P3</a></h4>
             <h4><a href="https://github.com/faruqem/p3">Project P3 Github Link</a></h4>
             <p>This project is to give hands-on practice with working with the essentials of building a Laravel-based site.</p>
         </div>
         <div class="col-lg-4">
             <h2>Project P4</h2>
-            <h4><a href="p4.guddi.ca">View Project P4</a></h4>
+            <h4><a href="http://p4.guddi.ca">View Project P4</a></h4>
             <h4><a href="https://github.com/faruqem/p4">Project P4 Github Link</a></h4>
             <p>The final project is to bring together all the skills learned throughout the semester to create a web app.</p>
         </div>
