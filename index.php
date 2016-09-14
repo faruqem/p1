@@ -50,7 +50,7 @@
         </div>
       </nav>-->
       <div class="container-fluid bg-1 text-center top-buffer">
-        <h3>Project P1 - Setup and Portfolio</h3>
+        <h3>Project P1 - Setup and Portfolio (<a href="https://github.com/faruqem/p1">In Github</a>)</h3>
         <h3>CSCI E-15 Dynamic Web Applications Course Projects, Harvard Extension School</h3>
       </div>
     </div>
