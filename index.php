@@ -17,28 +17,34 @@
       <p>Project P1: System Setup / Portfolio</p>
     </div>-->
     <div class="container">
-      <div class="container-fluid bg-1 text-center bottom-buffer">
+      <div class="container-fluid-1 bg-1 text-center bottom-buffer">
           <img src="images/mo.jpg" class="img-responsive img-circle" alt="Picture of Mo" width="260" height="280">
           <h1>Mohiuddin Faruqe</h1>
       </div>
       <div class="row">
-        <div class="col-lg-4">
-            <h2>Project P2</h2>
-            <h4><a href="http://p2.guddi.ca">View Project P2</a></h4>
-            <h4><a href="https://github.com/faruqem/p2">Project P2 Github Link</a></h4>
-            <p>The goal of this project is to give hands-on practice with working with the basics of PHP.</p>
+      	<div class="col-md-4">
+      		<div class="well">
+				<h2>Project P2</h2>
+				<h4><a href="http://p2.guddi.ca">View Project P2</a></h4>
+				<h4><a href="https://github.com/faruqem/p2">Project P2 Github Link</a></h4>
+				<p>The goal of this project is to give hands-on practice with working with the basics of PHP by creating an xkcd style password generator.</p>
+			</div>
+		</div>
+        <div class="col-md-4">
+        	<div class="well">
+				<h2>Project P3</h2>
+				<h4><a href="http://p3.guddi.ca">View Project P3</a></h4>
+				<h4><a href="https://github.com/faruqem/p3">Project P3 Github Link</a></h4>
+				<p>This project is to give hands-on practice with working with the essentials of building a Laravel-based site.</p>
+            </div>
         </div>
-        <div class="col-lg-4">
-            <h2>Project P3</h2>
-            <h4><a href="http://p3.guddi.ca">View Project P3</a></h4>
-            <h4><a href="https://github.com/faruqem/p3">Project P3 Github Link</a></h4>
-            <p>This project is to give hands-on practice with working with the essentials of building a Laravel-based site.</p>
-        </div>
-        <div class="col-lg-4">
-            <h2>Project P4</h2>
-            <h4><a href="http://p4.guddi.ca">View Project P4</a></h4>
-            <h4><a href="https://github.com/faruqem/p4">Project P4 Github Link</a></h4>
-            <p>The final project is to bring together all the skills learned throughout the semester to create a web app.</p>
+        <div class="col-md-4">
+        	<div class="well">
+				<h2>Project P4</h2>
+				<h4><a href="http://p4.guddi.ca">View Project P4</a></h4>
+				<h4><a href="https://github.com/faruqem/p4">Project P4 Github Link</a></h4>
+				<p>The final project is to bring together all the skills learned throughout the semester to create a web app.</p>
+			</div>
         </div>
       </div>
 
@@ -49,7 +55,7 @@
           </div>
         </div>
       </nav>-->
-      <div class="container-fluid bg-1 text-center top-buffer">
+      <div class="container-fluid-2 bg-1 text-center top-buffer">
         <h3>Project P1 - Setup and Portfolio (<a href="https://github.com/faruqem/p1">In Github</a>)</h3>
         <h3>CSCI E-15 Dynamic Web Applications Course Projects, Harvard Extension School</h3>
       </div>
